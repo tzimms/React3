@@ -5,6 +5,15 @@
 .App-logo {
   height: 40vmin;
 }
+.App-logo-stop {
+  height: 80vmin;
+  transform:rotate(45deg);
+}
+
+button{ 
+background-color:red; 
+max-height: 20px; 
+}
 
 .App-header {
   background-color: #282c34;
